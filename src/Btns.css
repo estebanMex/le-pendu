@@ -1,0 +1,10 @@
+.Btns {
+    display: flex;
+    align-content: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.Btns > div {
+    padding:10px;
+}

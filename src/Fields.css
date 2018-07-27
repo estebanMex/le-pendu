@@ -1,0 +1,24 @@
+.Fields {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.Fields--lettre {
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    font-size: 3rem;
+    margin: 0 0.5rem;
+}
+
+.Fields .ok {
+    border:5px solid green;
+}
+
+
+.Fields .ko {
+    border:5px solid red;
+}
